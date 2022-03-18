@@ -84,3 +84,6 @@ void append(struct Node** head_ref, int new_data)
 	last->next = new_node;
 	return;
 }
+
+
+//Time complexity of append is O(n) where n is the number of nodes in the linked list.
