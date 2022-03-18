@@ -45,3 +45,8 @@ void insertAfter(struct Node* prev_node, int new_data)
 	/* 5. move the next of prev_node as new_node */
 	prev_node->next = new_node;
 }
+
+
+//Time complexity of insertAfter() is O(1) as it does a constant amount of work.
+
+
