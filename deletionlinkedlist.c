@@ -82,3 +82,12 @@ int main()
     printList(head);
     return 0;
 }
+
+
+
+
+/*Output
+Created Linked List: 
+ 2  3  1  7 
+Linked List after Deletion of 1: 
+ 2  3  7  */
