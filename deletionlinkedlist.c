@@ -91,3 +91,21 @@ Created Linked List:
  2  3  1  7 
 Linked List after Deletion of 1: 
  2  3  7  */
+
+
+
+
+
+
+
+
+//Delete a Linked List node at a given position
+/*Example:  
+
+Input: position = 1, Linked List = 8->2->3->1->7
+Output: Linked List =  8->3->1->7
+
+Input: position = 0, Linked List = 8->2->3->1->7
+Output: Linked List = 2->3->1->7 */
+
+
