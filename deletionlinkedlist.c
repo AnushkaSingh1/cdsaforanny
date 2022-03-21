@@ -214,3 +214,22 @@ int main()
 	return 0;
 }
 // This code is contributed by Sanjeeban Mukhopadhyay.
+
+
+
+/*Output: 
+
+--Created Linked List--
+ 10-> 20-> 30-> 40-> 50-> 60->NULL      
+
+Linked List after deletion at position 0
+Element deleted is : 10
+
+Updated Linked List is : 
+ 20-> 30-> 40-> 50-> 60->NULL
+
+Linked List after deletion at position 2
+Element deleted is : 40
+
+Updated Linked List is : 
+ 20-> 30-> 50-> 60->NULL */
