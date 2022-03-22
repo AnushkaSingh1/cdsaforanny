@@ -44,3 +44,13 @@ last -> next = temp;
 
 return last;
 }
+
+
+
+/*To insert a node at the end of the list, follow these steps: 
+1. Create a node, say T. 
+2. Make T -> next = last -> next; 
+3. last -> next = T. 
+4. last = T. 
+	
+	*/
