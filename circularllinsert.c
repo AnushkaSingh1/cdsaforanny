@@ -74,3 +74,9 @@ last = temp;
 return last;
 }
 
+/*To insert a node in between the two nodes, follow these steps: 
+1. Create a node, say T. 
+2. Search for the node after which T needs to be inserted, say that node is P. 
+3. Make T -> next = P -> next; 
+4. P -> next = T.
+*/
