@@ -1,3 +1,4 @@
+//Initially, when the list is empty, the last pointer will be NULL. 
 struct Node *addToEmpty(struct Node *last, int data)
 {
 	// This function is only for empty list
@@ -17,3 +18,11 @@ struct Node *addToEmpty(struct Node *last, int data)
 
 	return last;
 }
+
+
+
+/*To insert a node at the beginning of the list, follow these steps: 
+1. Create a node, say T. 
+2. Make T -> next = last -> next. 
+3. last -> next = T. */
+
