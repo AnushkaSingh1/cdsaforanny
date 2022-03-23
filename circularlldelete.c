@@ -127,3 +127,8 @@ int main()
 
 	return 0;
 }
+
+
+//Output
+//List Before Deletion: 10 8 7 5 2 
+//List After Deletion: 10 8 5 2 
