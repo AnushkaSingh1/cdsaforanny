@@ -85,3 +85,12 @@ int main()
 
 	return 0;
 }
+
+
+
+
+//Output: 
+ 
+
+//Display list:
+//17 22 13 14 15
