@@ -81,5 +81,5 @@ int main()
 20 pushed into stack
 30 pushed into stack
 30 Popped from stack
-Top element is : 20
-Elements present in stack : 20 10
+//Top element is : 20
+//Elements present in stack : 20 10
