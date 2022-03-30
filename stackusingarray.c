@@ -72,3 +72,14 @@ int main()
 	return 0;
 }
 
+
+
+
+
+
+10 pushed into stack
+20 pushed into stack
+30 pushed into stack
+30 Popped from stack
+Top element is : 20
+Elements present in stack : 20 10
