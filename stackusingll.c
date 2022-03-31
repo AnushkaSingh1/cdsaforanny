@@ -72,10 +72,10 @@ int main()
 
 
 
-Output:
+//Output:
 
-10 pushed to stack
-20 pushed to stack
+//10 pushed to stack
+//20 pushed to stack
 30 pushed to stack
 30 popped from stack
 Top element is 20
