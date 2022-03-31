@@ -65,3 +65,18 @@ int main()
 
 	return 0;
 }
+
+
+
+
+
+
+
+Output:
+
+10 pushed to stack
+20 pushed to stack
+30 pushed to stack
+30 popped from stack
+Top element is 20
+Elements present in stack : 20 10 
