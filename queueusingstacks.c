@@ -260,3 +260,14 @@ int main()
 //Output: 
 
 //1 2 3 
+
+
+//Complexity Analysis: 
+
+//Time Complexity: 
+//Push operation : O(1). 
+//Same as pop operation in stack.
+//Pop operation : O(N). 
+//The difference from above method is that in this method element is returned and all elements are restored back in a single call.
+//Auxiliary Space: O(N). 
+//Use of stack for storing values.
