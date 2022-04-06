@@ -117,3 +117,14 @@ int main()
 //Output: 
 
 //1 2 3 
+
+
+//Complexity Analysis: 
+
+//Time Complexity: 
+//Push operation: O(1). 
+//Same as pop operation in stack.
+//Pop operation: O(N). 
+//In the worst case we have empty whole of stack 1 into stack 2
+//Auxiliary Space: O(N). 
+//Use of stack for storing values.
