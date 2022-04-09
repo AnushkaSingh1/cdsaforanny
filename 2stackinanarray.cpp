@@ -100,3 +100,12 @@ int main()
 		<< endl;
 	return 0;
 }
+
+
+
+Output: 
+
+Stack Overflow By element :7
+Popped element from stack1 is  : 11
+Stack Overflow By element :40
+Popped element from stack2 is : 15
