@@ -103,7 +103,7 @@ int main()
 
 
 
-Output: 
+/*Output: 
 
 Stack Overflow By element :7
 Popped element from stack1 is  : 11
