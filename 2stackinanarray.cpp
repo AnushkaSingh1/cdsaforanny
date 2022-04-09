@@ -109,3 +109,13 @@ Stack Overflow By element :7
 Popped element from stack1 is  : 11
 Stack Overflow By element :40
 Popped element from stack2 is : 15
+	
+	
+	
+	Complexity Analysis: 
+
+Time Complexity: 
+Push operation : O(1)
+Pop operation : O(1)
+Auxiliary Space: O(N). 
+Use of array to implement stack so. It is not the space-optimized method as explained above.
