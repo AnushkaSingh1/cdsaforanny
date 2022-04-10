@@ -221,3 +221,18 @@ int main()
 		<< ts.pop2();
 	return 0;
 }
+
+
+
+
+Output: 
+
+Popped element from stack1 is 11
+Popped element from stack2 is 40
+Complexity Analysis: 
+
+Time Complexity: 
+Push operation : O(1)
+Pop operation : O(1)
+Auxiliary Space :O(N). 
+Use of array to implement stack so it is a space-optimized method.
