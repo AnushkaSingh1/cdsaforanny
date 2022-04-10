@@ -125,6 +125,9 @@ Use of array to implement stack so. It is not the space-optimized method as expl
 
 
 
+//Method 2 (A space efficient implementation) 
+
+
 #include <iostream>
 #include <stdlib.h>
 
