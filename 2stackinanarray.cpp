@@ -1,3 +1,5 @@
+//Method 1 (Divide the space in two halves) 
+
 #include <iostream>
 #include <stdlib.h>
 
