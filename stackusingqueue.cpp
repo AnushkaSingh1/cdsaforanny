@@ -93,3 +93,8 @@ current size: 3
 1
 current size: 1 */
 
+
+
+
+//Method 2 (By making pop operation costly) 
+
