@@ -1,3 +1,6 @@
+//Method 1 (By making push operation costly) 
+
+
 /* Program to implement a stack using
 two queue */
 #include <bits/stdc++.h>
