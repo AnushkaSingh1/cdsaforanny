@@ -195,3 +195,14 @@ int main()
 		<< endl;
 	return 0;
 }
+
+
+
+
+/*Output : 
+
+current size: 4
+4
+3
+2
+current size: 2 */
