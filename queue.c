@@ -100,3 +100,23 @@ int main()
 
 	return 0;
 }
+
+/* Output: 
+
+10 enqueued to queue
+20 enqueued to queue
+30 enqueued to queue
+40 enqueued to queue
+10 dequeued from queue
+Front item is 20
+Rear item is 40
+Complexity Analysis:  
+
+Time Complexity:
+Operations              Complexity
+Enque(insertion)           O(1)
+Deque(deletion)            O(1)
+Front(Get front)           O(1)
+Rear(Get Rear)             O(1)              
+Auxiliary Space: O(N). 
+N is the size of array for storing elements. */
