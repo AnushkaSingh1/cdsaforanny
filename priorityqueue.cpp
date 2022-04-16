@@ -1,4 +1,17 @@
-// C++ program to implement Priority Queue
+1) Using Array: A simple implementation is to use an array of the following structure. 
+
+struct item {
+   int item;
+   int priority;
+}
+enqueue(): This function is used to insert new data into the queue.
+dequeue(): This function removes the element with the highest priority from the queue.
+peek()/top(): This function is used to get the highest priority element in the queue without removing it from the queue.
+
+	
+	
+	
+	// C++ program to implement Priority Queue
 // using Arrays
 #include <bits/stdc++.h>
 using namespace std;
