@@ -1,4 +1,4 @@
-1) Using Array: A simple implementation is to use an array of the following structure. 
+/*1) Using Array: A simple implementation is to use an array of the following structure. 
 
 struct item {
    int item;
@@ -7,7 +7,7 @@ struct item {
 enqueue(): This function is used to insert new data into the queue.
 dequeue(): This function removes the element with the highest priority from the queue.
 peek()/top(): This function is used to get the highest priority element in the queue without removing it from the queue.
-
+*/
 	
 	
 	
