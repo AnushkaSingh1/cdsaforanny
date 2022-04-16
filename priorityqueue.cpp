@@ -124,7 +124,8 @@ int main()
 
 
 
-Output
+/*Output
 16
 14
 12
+*/
