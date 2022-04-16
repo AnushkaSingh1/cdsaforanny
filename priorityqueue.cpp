@@ -108,3 +108,10 @@ int main()
 
 	return 0;
 }
+
+
+
+Output
+16
+14
+12
