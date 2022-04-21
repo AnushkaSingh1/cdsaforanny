@@ -229,3 +229,5 @@ int main()
 
 
 
+//Output
+ //7 4 5 6
