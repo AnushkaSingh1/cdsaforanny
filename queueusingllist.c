@@ -83,3 +83,8 @@ int main()
 	printf("Queue Rear : %d", q->rear->key);
 	return 0;
 }
+
+/* Output: 
+Queue Front : 40
+Queue Rear : 50
+*/
